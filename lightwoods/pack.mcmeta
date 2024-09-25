@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Test pack, please ignore",
+    "pack_format": 48,
+    "supported_formats": [
+      10,
+      48
+    ]
+  }
+}
