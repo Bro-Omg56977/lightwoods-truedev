@@ -125,11 +125,6 @@
     [],
     [],
     [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
-    ],
-    [],
-    [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
@@ -159,14 +154,17 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel"
     ],
-    [
-      "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "minecraft:patch_cactus_desert",
-      "minecraft:patch_dead_bush_badlands"
-    ],
+    [],
+    [],
+    [],
     [
       "minecraft:freeze_top_layer"
+    ],
+    [
+      "minecraft:spring_water",
+      "minecraft:patch_tall_grass_2",
+      "minecraft:patch_grass_plain",
+      "minecraft:patch_waterlily"
     ]
   ]
 }

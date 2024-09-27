@@ -166,7 +166,7 @@
                         },
                         "argument2": {
                           "type": "minecraft:add",
-                          "argument1": 0.078125,
+                          "argument1": 0.000005,
                           "argument2": {
                             "type": "minecraft:range_choice",
                             "input": "lightwoods:lightwoods/sloped_cheese",
@@ -191,14 +191,14 @@
                                     "type": "minecraft:add",
                                     "argument1": {
                                       "type": "minecraft:mul",
-                                      "argument1": 4,
+                                      "argument1": 1,
                                       "argument2": {
                                         "type": "minecraft:square",
                                         "argument": {
                                           "type": "minecraft:noise",
                                           "noise": "minecraft:cave_layer",
-                                          "xz_scale": 1,
-                                          "y_scale": 8
+                                          "xz_scale": 2,
+                                          "y_scale": 16
                                         }
                                       }
                                     },
@@ -208,12 +208,12 @@
                                         "type": "minecraft:clamp",
                                         "input": {
                                           "type": "minecraft:add",
-                                          "argument1": 0.27,
+                                          "argument1": 0.1,
                                           "argument2": {
                                             "type": "minecraft:noise",
                                             "noise": "minecraft:cave_cheese",
                                             "xz_scale": 1,
-                                            "y_scale": 0.6666666666666666
+                                            "y_scale": 0.5
                                           }
                                         },
                                         "min": -1,
@@ -223,14 +223,14 @@
                                         "type": "minecraft:clamp",
                                         "input": {
                                           "type": "minecraft:add",
-                                          "argument1": 1.5,
+                                          "argument1": 3,
                                           "argument2": {
                                             "type": "minecraft:mul",
-                                            "argument1": -0.64,
+                                            "argument1": -0.5,
                                             "argument2": "lightwoods:lightwoods/sloped_cheese"
                                           }
                                         },
-                                        "min": 0,
+                                        "min": -0.2,
                                         "max": 0.5
                                       }
                                     }
