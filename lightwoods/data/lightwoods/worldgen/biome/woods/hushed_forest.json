@@ -142,13 +142,16 @@
     ]
   },
   "features": [
-    [],
-    [],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "lightwoods:hush_forest/tree_placer_large"
+    ],
+    [
+            "lightwoods:hush_forest/lamppost"
+    ],
     [
       "minecraft:ore_gravel",
       "minecraft:ore_andesite_upper",
@@ -185,6 +188,9 @@
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
       "minecraft:patch_waterlily"
+    ],
+    [
+      "lightwoods:hush_forest/mushroom_placer"
     ]
   ]
 }

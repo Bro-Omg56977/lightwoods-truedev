@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:huge_fungus",
+    "config": {
+      "hat_state": {
+        "Name": "minecraft:moss_block"
+      },
+      "decor_state": {
+        "Name": "minecraft:shroomlight"
+      },
+      "stem_state": {
+        "Name": "minecraft:mushroom_stem"
+      },
+      "valid_base_block": {
+        "Name": "minecraft:grass_block"
+      },
+      "replaceable_blocks": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          {
+            "type": "minecraft:true"
+          }
+        ]
+      },
+      "planted": false
+    }
+  }
+  

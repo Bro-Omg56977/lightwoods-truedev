@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.4,
+          "feature": "lightwoods:hush_forest/mushroom0"
+        },
+        {
+            "chance": 0.4,
+            "feature": "lightwoods:hush_forest/mushroom1"
+          },
+          {
+            "chance": 0.2,
+            "feature": "lightwoods:hush_forest/mushroom2"
+          }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  

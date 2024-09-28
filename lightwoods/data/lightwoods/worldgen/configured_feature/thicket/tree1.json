@@ -73,7 +73,7 @@
           }
         },
         {
-          "weight": 32,
+          "weight": 48,
           "data": {
             "Name": "minecraft:air"
           }
