@@ -1,0 +1,13 @@
+{
+    "feature": "lightwoods:cavern/replace_water_with_mud",
+    "placement": [
+      {
+        "type": "minecraft:count_on_every_layer",
+        "count": 75
+      },
+      {
+        "type": "minecraft:biome"
+      }
+    ]
+  }
+  

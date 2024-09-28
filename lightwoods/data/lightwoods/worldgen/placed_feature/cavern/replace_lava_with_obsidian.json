@@ -1,0 +1,13 @@
+{
+    "feature": "lightwoods:cavern/replace_lava_with_obsidian",
+    "placement": [
+      {
+        "type": "minecraft:count_on_every_layer",
+        "count": 75
+      },
+      {
+        "type": "minecraft:biome"
+      }
+    ]
+  }
+  

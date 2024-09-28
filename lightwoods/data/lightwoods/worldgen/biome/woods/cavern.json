@@ -168,8 +168,8 @@
     [],
     [],
     [
-      "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "lightwoods:cavern/replace_lava_with_obsidian",
+      "lightwoods:cavern/replace_water_with_mud"
     ],
     [
       "minecraft:freeze_top_layer"

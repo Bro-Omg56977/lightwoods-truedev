@@ -4,8 +4,8 @@
   "has_precipitation": true,
   "temperature_modifier": "none",
   "effects": {
-    "sky_color": 7379295,
-    "fog_color": 7379295,
+    "sky_color": 6379323,
+    "fog_color": 6379323,
     "water_color": 5592575,
     "water_fog_color": 2168894,
     "grass_color": 2891537,
@@ -137,10 +137,7 @@
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
-    ],
+    [],
     [
       "minecraft:amethyst_geode"
     ],
@@ -148,7 +145,6 @@
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
     [],
     [
       "minecraft:ore_dirt",
@@ -183,7 +179,9 @@
     [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava"
+      "minecraft:patch_tall_grass_2",
+      "minecraft:patch_grass_plain",
+      "minecraft:patch_waterlily"
     ],
     [
       "minecraft:glow_lichen",
@@ -196,6 +194,9 @@
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_river",
       "minecraft:patch_waterlily"
+    ],
+    [
+      "lightwoods:thicket/stuff_placer"
     ],
     [
       "minecraft:freeze_top_layer"

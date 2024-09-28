@@ -4,8 +4,8 @@
   "has_precipitation": true,
   "temperature_modifier": "none",
   "effects": {
-    "sky_color": 14745507,
-    "fog_color": 14745507,
+    "sky_color": 10135679,
+    "fog_color": 10135679,
     "water_color": 5724059,
     "water_fog_color": 5724059,
     "grass_color": 8228697,

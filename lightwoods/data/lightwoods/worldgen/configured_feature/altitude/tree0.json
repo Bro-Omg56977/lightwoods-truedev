@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:huge_fungus",
+    "config": {
+      "hat_state": {
+        "Name": "minecraft:air"
+      },
+      "decor_state": {
+        "Name": "minecraft:pearlescent_froglight",
+        "Properties": {
+          "axis": "y"
+        }
+      },
+      "stem_state": {
+        "Name": "minecraft:blue_ice"
+      },
+      "valid_base_block": {
+        "Name": "minecraft:packed_ice"
+      },
+      "replaceable_blocks": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          {
+            "type": "minecraft:true"
+          }
+        ]
+      },
+      "planted": false
+    }
+  }
+  

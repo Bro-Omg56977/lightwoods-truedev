@@ -164,7 +164,9 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel"
     ],
-    [],
+    [
+      "lightwoods:altitude/tree0"
+    ],
     [
       "minecraft:freeze_top_layer"
     ]
