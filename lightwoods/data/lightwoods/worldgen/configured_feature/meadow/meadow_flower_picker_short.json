@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/flower_allium"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/flower_blue_orchid"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/flower_cornflower"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/flower_lily"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/flower_oxeye"
+        }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  

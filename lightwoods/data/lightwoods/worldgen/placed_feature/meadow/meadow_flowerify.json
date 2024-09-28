@@ -1,5 +1,5 @@
 {
-	"feature": "lightwoods:altitude/tree0",
+	"feature": "lightwoods:meadow/meadow_flower_vegitation",
 	"placement": [
 	  {
 		"type": "minecraft:count",
@@ -18,15 +18,11 @@
 		}
 	  },
 	  {
-		"type": "minecraft:rarity_filter",
-		"chance": 1
-	  },
-	  {
 		"type": "minecraft:in_square"
 	  },
 	  {
 		"type": "minecraft:surface_water_depth_filter",
-		"max_water_depth": 3
+		"max_water_depth": 0
 	  },
 	  {
 		"type": "minecraft:heightmap",
@@ -42,8 +38,14 @@
 			0
 		  ],
 		  "blocks": [
-			"minecraft:packed_ice",
-			"minecraft:blue_ice"
+			"minecraft:grass_block",
+			"minecraft:podzol",
+			"minecraft:dirt",
+			"minecraft:coarse_dirt",
+			"minecraft:moss_block",
+			"minecraft:dark_oak_wood",
+			"minecraft:sand",
+			"minecraft:clay"
 		  ]
 		}
 	  },

@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/otree0"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/otree1"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/otree2"
+        },
+        {
+          "chance": 0.2,
+          "feature": "lightwoods:meadow/otree3"
+        },
+        {
+          "chance": 0.05,
+          "feature": "lightwoods:meadow/ctree0"
+        },
+        {
+          "chance": 0.05,
+          "feature": "lightwoods:meadow/ctree1"
+        },
+        {
+          "chance": 0.05,
+          "feature": "lightwoods:meadow/ctree2"
+        },
+        {
+          "chance": 0.05,
+          "feature": "lightwoods:meadow/ctree3"
+        }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  

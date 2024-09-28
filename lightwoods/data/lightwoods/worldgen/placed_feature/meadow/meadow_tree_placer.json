@@ -1,5 +1,5 @@
 {
-	"feature": "lightwoods:altitude/tree0",
+	"feature": "lightwoods:meadow/meadow_tree_placer",
 	"placement": [
 	  {
 		"type": "minecraft:count",
@@ -16,10 +16,6 @@
 			}
 		  ]
 		}
-	  },
-	  {
-		"type": "minecraft:rarity_filter",
-		"chance": 1
 	  },
 	  {
 		"type": "minecraft:in_square"
@@ -42,8 +38,14 @@
 			0
 		  ],
 		  "blocks": [
-			"minecraft:packed_ice",
-			"minecraft:blue_ice"
+			"minecraft:grass_block",
+			"minecraft:podzol",
+			"minecraft:dirt",
+			"minecraft:coarse_dirt",
+			"minecraft:moss_block",
+			"minecraft:dark_oak_wood",
+			"minecraft:sand",
+			"minecraft:clay"
 		  ]
 		}
 	  },
