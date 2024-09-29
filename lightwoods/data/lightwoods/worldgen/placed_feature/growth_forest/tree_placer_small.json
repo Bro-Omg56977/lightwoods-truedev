@@ -1,5 +1,5 @@
 {
-	"feature": "lightwoods:hush_forest/tree_placer_large",
+	"feature": "lightwoods:growth_forest/tree_placer_small",
 	"placement": [
 	  {
 		"type": "minecraft:count",
@@ -8,11 +8,11 @@
 		  "distribution": [
 			{
 			  "weight": 5,
-			  "data": 5
+			  "data": 2
 			},
 			{
 			  "weight": 5,
-			  "data": 6
+			  "data": 3
 			}
 		  ]
 		}

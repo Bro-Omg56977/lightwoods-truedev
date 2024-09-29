@@ -27,7 +27,7 @@
         }
       },
       "vegetation_feature": {
-        "feature": "lightwoods:hush_forest/weird_lamp_feature",
+        "feature": "lightwoods:growth_forest/weird_lamp_feature",
         "placement": [
           {
             "type": "minecraft:count",

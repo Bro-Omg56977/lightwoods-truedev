@@ -4,12 +4,12 @@
   "has_precipitation": true,
   "temperature_modifier": "none",
   "effects": {
-    "sky_color": 5472134,
-    "fog_color": 5472134,
+    "sky_color": 3626072,
+    "fog_color": 3626072,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "grass_color": 1282354,
-    "foliage_color": 1282354,
+    "grass_color": 1988396,
+    "foliage_color": 1988396,
     "ambient_sound": "minecraft:ambient.warped_forest.loop",
     "mood_sound": {
       "sound": "minecraft:ambient.warped_forest.mood",
@@ -148,7 +148,12 @@
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "lightwoods:growth_forest/tree_placer_large"
+    ],
+    [
+      "lightwoods:growth_forest/lamppost"
+    ],
     [
       "minecraft:ore_gravel",
       "minecraft:ore_andesite_upper",
@@ -176,7 +181,6 @@
     ],
     [],
     [],
-    [],
     [
       "minecraft:freeze_top_layer"
     ],
@@ -184,7 +188,11 @@
       "minecraft:spring_water",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
-      "minecraft:patch_waterlily"
+      "minecraft:patch_waterlily",
+      "lightwoods:growth_forest/tree_placer_small"
+    ],
+    [
+      "lightwoods:growth_forest/mushroom_placer"
     ]
   ]
 }

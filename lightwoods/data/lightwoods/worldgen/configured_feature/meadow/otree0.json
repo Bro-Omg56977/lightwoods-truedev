@@ -80,9 +80,9 @@
       "radius": {
         "type": "minecraft:uniform",
         "min_inclusive": 1,
-        "max_inclusive": 2
+        "max_inclusive": 1
       },
-      "offset": 0,
+      "offset": 1,
       "height": 3
     },
     "decorators": []

@@ -4,12 +4,12 @@
       "features": [
         {
           "chance": 0.75,
-          "feature": "lightwoods:hush_forest/test0"
+          "feature": "lightwoods:growth_forest/test0"
         },
 
         {
           "chance": 0.25,
-          "feature": "lightwoods:hush_forest/treeagain"
+          "feature": "lightwoods:growth_forest/treeagain"
         }
       ],
       "default": "lightwoods:na"

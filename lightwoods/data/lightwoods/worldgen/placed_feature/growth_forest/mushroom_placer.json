@@ -1,5 +1,5 @@
 {
-	"feature": "lightwoods:hush_forest/mushroom_placer",
+	"feature": "lightwoods:growth_forest/mushroom_placer",
 	"placement": [
 	  {
 		"type": "minecraft:count",
@@ -12,14 +12,14 @@
 			},
 			{
 			  "weight": 5,
-			  "data": 2
+			  "data": 1
 			}
 		  ]
 		}
 	  },
 	  {
 		"type": "minecraft:rarity_filter",
-		"chance": 1
+		"chance": 8
 	  },
 	  {
 		"type": "minecraft:in_square"
