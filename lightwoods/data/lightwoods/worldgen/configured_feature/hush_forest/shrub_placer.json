@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.1,
+          "feature": "lightwoods:hush_forest/shrub0"
+        },
+        {
+            "chance": 0.4,
+            "feature": "lightwoods:hush_forest/shrub1"
+          },
+          {
+            "chance": 0.1,
+            "feature": "lightwoods:hush_forest/shrub2"
+          },
+          {
+            "chance": 0.4,
+            "feature": "lightwoods:hush_forest/shrub3"
+          }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  

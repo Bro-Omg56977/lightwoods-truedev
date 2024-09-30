@@ -1,9 +1,9 @@
 {
-    "feature": "lightwoods:growth_forest/weird_lamp_vegitation",
+    "feature": "lightwoods:hush_forest/lamp_veg",
     "placement": [
       {
         "type": "minecraft:count",
-        "count": 3
+        "count": 256
       },
       {
         "type": "minecraft:in_square"
@@ -13,10 +13,10 @@
         "height": {
           "type": "minecraft:uniform",
           "min_inclusive": {
-            "absolute": 63
+            "above_bottom": 64
           },
           "max_inclusive": {
-            "absolute": 128
+            "absolute": 256
           }
         }
       },
@@ -27,20 +27,17 @@
         "target_condition": {
           "type": "minecraft:matching_blocks",
           "blocks": [
-            "minecraft:grass_block"
+            "minecraft:moss_block"
           ]
         },
         "allowed_search_condition": {
           "type": "minecraft:matching_blocks",
           "blocks": [
             "minecraft:air",
-            "minecraft:spruce_log",
             "minecraft:oak_leaves",
-            "minecraft:spruce_leaves",
-            "minecraft:vine",
-            "minecraft:grass_block",
-            "minecraft:purple_stained_glass",
-            "minecraft:magenta_stained_glass"
+            "minecraft:birch_leaves",
+            "minecraft:dark_oak_leaves",
+            "minecraft:grass_block"
           ]
         }
       },

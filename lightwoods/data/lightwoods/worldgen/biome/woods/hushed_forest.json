@@ -147,6 +147,12 @@
       "minecraft:monster_room_deep"
     ],
     [
+      "lightwoods:hush_forest/tree_placer"
+    ],
+    [
+      "lightwoods:hush_forest/lamp_veg"
+    ],
+    [
       "minecraft:ore_gravel",
       "minecraft:ore_andesite_upper",
       "minecraft:ore_andesite_lower",
@@ -182,6 +188,10 @@
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
       "minecraft:patch_waterlily"
+    ],
+    [
+      "lightwoods:hush_forest/mushroom_placer",
+      "lightwoods:hush_forest/shrub_placer"
     ]
   ]
 }

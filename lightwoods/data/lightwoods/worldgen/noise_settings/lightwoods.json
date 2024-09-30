@@ -177,7 +177,7 @@
                               "argument1": "lightwoods:lightwoods/sloped_cheese",
                               "argument2": {
                                 "type": "minecraft:mul",
-                                "argument1": 5,
+                                "argument1": 25,
                                 "argument2": "minecraft:overworld/caves/entrances"
                               }
                             },
