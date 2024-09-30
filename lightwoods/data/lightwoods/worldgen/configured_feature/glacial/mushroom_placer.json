@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.15,
+          "feature": "lightwoods:glacial/mushroom0"
+        },
+
+        {
+          "chance": 0.15,
+          "feature": "lightwoods:glacial/mushroom1"
+        },
+        {
+            "chance": 0.15,
+            "feature": "lightwoods:glacial/mushroom2"
+          }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  
