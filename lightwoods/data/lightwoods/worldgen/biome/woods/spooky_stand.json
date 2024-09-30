@@ -128,7 +128,12 @@
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "lightwoods:spooky/tree_placer_large"
+    ],
+    [
+      "lightwoods:spooky/lamppost"
+    ],
     [
       "minecraft:ore_gravel",
       "minecraft:ore_andesite_upper",
@@ -156,7 +161,6 @@
     ],
     [],
     [],
-    [],
     [
       "minecraft:freeze_top_layer"
     ],
@@ -164,7 +168,11 @@
       "minecraft:spring_water",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
-      "minecraft:patch_waterlily"
+      "minecraft:patch_waterlily",
+      "lightwoods:spooky/pumpkin_placer"
+    ],
+    [
+      "lightwoods:spooky/mushroom_placer"
     ]
   ]
 }

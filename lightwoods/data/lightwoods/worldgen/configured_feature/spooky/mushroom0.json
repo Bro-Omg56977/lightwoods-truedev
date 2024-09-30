@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:huge_fungus",
+    "config": {
+      "hat_state": {
+        "Name": "minecraft:pumpkin"
+      },
+      "decor_state": {
+        "Name": "minecraft:ochre_froglight"
+      },
+      "stem_state": {
+        "Name": "minecraft:spruce_wood"
+      },
+      "valid_base_block": {
+        "Name": "minecraft:grass_block"
+      },
+      "replaceable_blocks": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          {
+            "type": "minecraft:true"
+          }
+        ]
+      },
+      "planted": false
+    }
+  }
+  

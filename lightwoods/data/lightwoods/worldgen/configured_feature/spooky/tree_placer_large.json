@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 0.75,
+          "feature": "lightwoods:spooky/test0"
+        },
+
+        {
+          "chance": 0.25,
+          "feature": "lightwoods:spooky/treeagain"
+        }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  

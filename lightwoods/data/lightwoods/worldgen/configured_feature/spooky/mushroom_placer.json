@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "chance": 1,
+          "feature": "lightwoods:spooky/mushroom0"
+        }
+      ],
+      "default": "lightwoods:na"
+    }
+  }
+  

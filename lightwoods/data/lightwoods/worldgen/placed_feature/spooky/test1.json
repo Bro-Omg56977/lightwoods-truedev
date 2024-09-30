@@ -1,0 +1,17 @@
+{
+    "feature": "lightwoods:spooky/test1",
+    "placement": [
+		  {
+			"type": "minecraft:rarity_filter",
+			"chance": 5
+		  },
+		  {
+			"type": "minecraft:count",
+			"count": {
+			  "type": "minecraft:uniform",
+				"min_inclusive": 15,
+				"max_inclusive": 23
+			}
+		  }
+	]
+}
