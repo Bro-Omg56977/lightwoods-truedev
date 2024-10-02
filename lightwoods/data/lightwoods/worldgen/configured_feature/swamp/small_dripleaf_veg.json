@@ -27,7 +27,7 @@
         }
       },
       "vegetation_feature": {
-        "feature": "lightwoods:swamp/small_dripleaf_feat",
+        "feature": "lightwoods:swamp/small_drip_selector",
         "placement": [
           {
             "type": "minecraft:count",

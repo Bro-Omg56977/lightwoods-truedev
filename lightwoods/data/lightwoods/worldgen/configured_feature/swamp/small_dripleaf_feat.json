@@ -27,7 +27,7 @@
             "Name": "minecraft:small_dripleaf",
             "Properties": {
               "waterlogged": "false",
-              "half": "upper",
+              "half": "lower",
               "facing": "north"
             }
           }
