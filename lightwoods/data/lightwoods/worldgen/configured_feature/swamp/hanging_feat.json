@@ -1,0 +1,79 @@
+{
+    "type": "minecraft:block_column",
+    "config": {
+      "direction": "down",
+      "allowed_placement": {
+        "type": "minecraft:matching_blocks",
+        "offset": [
+          0,
+          0,
+          0
+        ],
+        "blocks": [
+          "minecraft:air"
+        ]
+      },
+      "prioritize_tip": true,
+      "layers": [
+        {
+          "height": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 2,
+            "max_inclusive": 6
+          },
+          "provider": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "weight": 2,
+                "data": {
+                  "Name": "minecraft:cave_vines",
+                  "Properties": {
+                    "berries": "false",
+                    "age": "0"
+                  }
+                }
+              },
+              {
+                "weight": 1,
+                "data": {
+                  "Name": "minecraft:cave_vines",
+                  "Properties": {
+                    "berries": "true",
+                    "age": "0"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "height": 1,
+          "provider": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "weight": 2,
+                "data": {
+                  "Name": "minecraft:cave_vines_plant",
+                  "Properties": {
+                    "berries": "false"
+                  }
+                }
+              },
+              {
+                "weight": 1,
+                "data": {
+                  "Name": "minecraft:cave_vines_plant",
+                  "Properties": {
+                    "berries": "true"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+  

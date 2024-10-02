@@ -76,7 +76,7 @@
       "base_height": 6,
       "height_rand_a": 2,
       "height_rand_b": 4,
-      "branch_count": 1,
+      "branch_count": 2,
       "branch_horizontal_length": {
         "type": "minecraft:uniform",
         "min_inclusive": 2,

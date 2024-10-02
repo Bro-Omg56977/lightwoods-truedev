@@ -1,5 +1,5 @@
 {
-	"feature": "lightwoods:growth_forest/tree_placer_small",
+	"feature": "lightwoods:swamp/tree_placer",
 	"placement": [
 	  {
 		"type": "minecraft:count",
@@ -8,11 +8,11 @@
 		  "distribution": [
 			{
 			  "weight": 5,
-			  "data": 7
+			  "data": 6
 			},
 			{
 			  "weight": 5,
-			  "data": 8
+			  "data": 7
 			}
 		  ]
 		}
@@ -22,7 +22,7 @@
 	  },
 	  {
 		"type": "minecraft:surface_water_depth_filter",
-		"max_water_depth": 0
+		"max_water_depth": 3
 	  },
 	  {
 		"type": "minecraft:heightmap",
@@ -39,6 +39,7 @@
 		  ],
 		  "blocks": [
 			"minecraft:grass_block",
+            "minecraft:mud",
 			"minecraft:podzol",
 			"minecraft:dirt",
 			"minecraft:coarse_dirt",

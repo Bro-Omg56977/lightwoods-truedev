@@ -159,13 +159,19 @@
   "features": [
     [],
     [],
-    [],
-    [],
     [
       "minecraft:monster_room",
       "minecraft:monster_room_deep"
     ],
-    [],
+    [
+      "lightwoods:swamp/delta"
+    ],
+    [
+      "lightwoods:swamp/hanging_vines"
+    ],
+    [
+      "lightwoods:swamp/tree_placer"
+    ],
     [
       "minecraft:ore_gravel",
       "minecraft:ore_andesite_upper",
@@ -198,9 +204,14 @@
     ],
     [
       "minecraft:fossil_upper",
-      "minecraft:fossil_lower"],
+      "minecraft:fossil_lower"
+    ],
     [
       "minecraft:freeze_top_layer"
+    ],
+    [
+      "lightwoods:swamp/dripleaf_small",
+      "lightwoods:swamp/dripleaf_big"
     ]
   ]
 }
