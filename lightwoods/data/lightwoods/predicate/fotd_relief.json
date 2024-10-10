@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "dimension": "lightwoods:lightwoods",
+      "light": {
+        "light": {
+          "min": 1,
+          "max": 15
+        }
+      }
+    }
+  }
+  
