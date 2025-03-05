@@ -6,7 +6,7 @@ give @s potion[potion_contents={custom_color:10718288,custom_effects:[{id:satura
 function lightwoods:teleport/server_obliterator
 
 #tps to dimension ig
-execute as @s in minecraft:overworld run tp @s ~ 320 ~
+execute as @s in minecraft:overworld run tp @s ~ 300 ~
 
 # sets scoreboard to teleport after 3 seconds
 scoreboard players set @s lightwoods.tp.0 3

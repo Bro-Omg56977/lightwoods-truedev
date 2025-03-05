@@ -2,7 +2,7 @@
 schedule function lightwoods:teleport/generic_tp 1s replace
 
 #teleports the player to where they're supposed to be
-execute as @a[scores={lightwoods.tp.0=1}] at @s run tp @s ~ 320 ~
+execute as @a[scores={lightwoods.tp.0=1}] at @s run tp @s ~ 300 ~
 
 #-1 score ever second
 scoreboard players remove @a[scores={lightwoods.tp.0=1..}] lightwoods.tp.0 1

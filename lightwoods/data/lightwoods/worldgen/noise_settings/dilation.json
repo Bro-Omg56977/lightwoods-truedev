@@ -8,10 +8,7 @@
     "Name": "minecraft:smooth_sandstone"
   },
   "default_fluid": {
-    "Name": "minecraft:smooth_sandstone",
-    "Properties": {
-      "level": "0"
-    }
+    "Name": "minecraft:smooth_sandstone"
   },
   "noise": {
     "min_y": 0,

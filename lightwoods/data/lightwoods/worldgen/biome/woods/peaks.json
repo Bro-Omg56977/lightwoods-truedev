@@ -20,12 +20,17 @@
       "sound": "minecraft:ambient.nether_wastes.additions",
       "tick_chance": 0.0111
     },
-    "music": {
-      "sound": "minecraft:music.overworld.frozen_peaks",
-      "min_delay": 12000,
-      "max_delay": 24000,
-      "replace_current_music": false
-    },
+    "music": [
+      {
+        "weight": 1,
+        "data": {
+          "sound": "minecraft:music.overworld.frozen_peaks",
+          "min_delay": 12000,
+          "max_delay": 24000,
+          "replace_current_music": false
+        }
+      }
+    ],
     "particle": {
       "options": {
         "type": "minecraft:end_rod"
@@ -120,13 +125,11 @@
     "water_creature": []
   },
   "spawn_costs": {},
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
   "features": [
     [],
     [],
