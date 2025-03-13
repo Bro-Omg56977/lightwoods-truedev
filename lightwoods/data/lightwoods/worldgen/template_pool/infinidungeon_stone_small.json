@@ -6,7 +6,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "lightwoods:infinidungeon/placeholder",
+          "location": "lightwoods:infinidungeon/stone_small_1",
           "override_liquid_settings": "ignore_waterlogging",
           "processors": "minecraft:empty"
         }
@@ -16,7 +16,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "lightwoods:infinidungeon/placeholder0",
+          "location": "lightwoods:infinidungeon/stone_small_2",
           "override_liquid_settings": "ignore_waterlogging",
           "processors": "minecraft:empty"
         }
@@ -26,7 +26,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "lightwoods:infinidungeon/placeholder1",
+          "location": "lightwoods:infinidungeon/stone_small_3",
           "override_liquid_settings": "ignore_waterlogging",
           "processors": "minecraft:empty"
         }
@@ -36,17 +36,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "lightwoods:infinidungeon/placeholder2",
-          "override_liquid_settings": "ignore_waterlogging",
-          "processors": "minecraft:empty"
-        }
-      },
-      {
-        "weight": 1,
-        "element": {
-          "element_type": "minecraft:single_pool_element",
-          "projection": "rigid",
-          "location": "lightwoods:infinidungeon/placeholder3",
+          "location": "lightwoods:infinidungeon/stone_small_4",
           "override_liquid_settings": "ignore_waterlogging",
           "processors": "minecraft:empty"
         }

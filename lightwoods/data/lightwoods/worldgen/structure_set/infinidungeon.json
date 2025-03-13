@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "lightwoods:infinidungeon_standard",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 537266712,
+      "spacing": 2,
+      "separation": 1
+    }
+  }
